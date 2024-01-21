@@ -1,7 +1,8 @@
-# Traffic-Sign-Recognition-Project-With-CNN
-Implementing an Article about Traffic Sign Recognition With GTSRB Dataset With CNN(Convolutional Neural Network) 
+# Traffic-Sign-Recognition-With-GTSRB-Dataset
+Implementation of this article:
+[Traffic Sign Recognition Based on Convolutional Neural Network Model](https://ieeexplore.ieee.org/abstract/document/9327830)
+With [GTSRB Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
-## Uploaded projects include the following:
+## Uploaded projects include:
 - Reference Paper
-- Implementation
-- Dataset: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+- Implementatio
