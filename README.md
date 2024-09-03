@@ -3,6 +3,6 @@ Implementation of this article:
 [Traffic Sign Recognition Based on Convolutional Neural Network Model](https://ieeexplore.ieee.org/abstract/document/9327830)
 With [GTSRB Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
-## Uploaded projects include:
+## Uploaded project include:
 - Reference Paper
 - Implementatio
